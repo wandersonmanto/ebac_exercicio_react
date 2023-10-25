@@ -1,0 +1,20 @@
+.button_calc {
+  height: 38px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+
+  font-size: 16px;
+  font-weight: 600;
+  
+  background-color: blue;
+
+  cursor: pointer;
+
+
+}
+
+.button_calc:hover {
+  border-radius: 8px;
+}

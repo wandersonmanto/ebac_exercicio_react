@@ -1,0 +1,17 @@
+.inputs {
+  display: flex;
+  flex-direction: column;
+
+  max-width: 270px;
+  margin: 10px;
+}
+
+.inputs input{
+  height: 30px;
+  padding: 2px 10px;
+
+  border-radius: 5px;
+
+  font-size: 16px;
+  font-weight: 500;
+}
